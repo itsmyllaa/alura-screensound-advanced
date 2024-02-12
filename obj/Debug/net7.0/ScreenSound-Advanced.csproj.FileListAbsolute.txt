@@ -1,0 +1,15 @@
+/Users/Camila/Projects/ScreenSound-Advanced/ScreenSound-Advanced/bin/Debug/net7.0/ScreenSound-Advanced
+/Users/Camila/Projects/ScreenSound-Advanced/ScreenSound-Advanced/bin/Debug/net7.0/ScreenSound-Advanced.deps.json
+/Users/Camila/Projects/ScreenSound-Advanced/ScreenSound-Advanced/bin/Debug/net7.0/ScreenSound-Advanced.runtimeconfig.json
+/Users/Camila/Projects/ScreenSound-Advanced/ScreenSound-Advanced/bin/Debug/net7.0/ScreenSound-Advanced.dll
+/Users/Camila/Projects/ScreenSound-Advanced/ScreenSound-Advanced/bin/Debug/net7.0/ScreenSound-Advanced.pdb
+/Users/Camila/Projects/ScreenSound-Advanced/ScreenSound-Advanced/obj/Debug/net7.0/ScreenSound-Advanced.csproj.AssemblyReference.cache
+/Users/Camila/Projects/ScreenSound-Advanced/ScreenSound-Advanced/obj/Debug/net7.0/ScreenSound-Advanced.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Camila/Projects/ScreenSound-Advanced/ScreenSound-Advanced/obj/Debug/net7.0/ScreenSound-Advanced.AssemblyInfoInputs.cache
+/Users/Camila/Projects/ScreenSound-Advanced/ScreenSound-Advanced/obj/Debug/net7.0/ScreenSound-Advanced.AssemblyInfo.cs
+/Users/Camila/Projects/ScreenSound-Advanced/ScreenSound-Advanced/obj/Debug/net7.0/ScreenSound-Advanced.csproj.CoreCompileInputs.cache
+/Users/Camila/Projects/ScreenSound-Advanced/ScreenSound-Advanced/obj/Debug/net7.0/ScreenSound-Advanced.dll
+/Users/Camila/Projects/ScreenSound-Advanced/ScreenSound-Advanced/obj/Debug/net7.0/refint/ScreenSound-Advanced.dll
+/Users/Camila/Projects/ScreenSound-Advanced/ScreenSound-Advanced/obj/Debug/net7.0/ScreenSound-Advanced.pdb
+/Users/Camila/Projects/ScreenSound-Advanced/ScreenSound-Advanced/obj/Debug/net7.0/ScreenSound-Advanced.genruntimeconfig.cache
+/Users/Camila/Projects/ScreenSound-Advanced/ScreenSound-Advanced/obj/Debug/net7.0/ref/ScreenSound-Advanced.dll
